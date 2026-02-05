@@ -1,0 +1,33 @@
+ศึกษาแอปคู่แข่ง เช่น “Decide Now!”, “Wheel of Names”
+กำหนดสี / Theme / UX แบบ playful
+
+Step 2: Tech Stack
+Platform: Android (Android Studio + Kotlin + Jetpack Compose)
+Database: SQLite / Room (เก็บ History)
+Offline Ready: Core features ไม่ต้องเน็ต
+
+Step 3: Design
+Wireframe / Mockup
+
+หน้าจอหลัก:
+หน้าเพิ่มตัวเลือก
+หน้าเลือกผลแบบหมุนวงล้อ
+หน้า History
+
+Step 4: MVP Build & Test
+สร้างเวอร์ชันพื้นฐาน
+ทดสอบกับกลุ่มเพื่อนเล็ก ๆ → Feedback
+
+4. Next Phase (หลัง MVP)
+Themes & Customization
+เปลี่ยนสี / เอฟเฟกต์หมุนวงล้อ / avatar ของตัวเลือก
+Smart Suggestions
+แอปเรียนรู้ตัวเลือกที่ใช้บ่อย
+แนะนำตัวเลือกตามเวลา / mood
+
+Social / Multiplayer Mode
+เพื่อนร่วมใส่ตัวเลือกแล้วสุ่มพร้อมกัน
+
+Integration
+เชื่อมกับ Calendar / Reminder
+สั่งให้แอปช่วย “Decide & Schedule”
