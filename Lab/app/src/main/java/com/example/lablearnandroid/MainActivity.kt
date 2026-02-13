@@ -62,7 +62,7 @@ class MainActivity : ComponentActivity() {
             }
             // image
             Image(
-                painter = painterResource(R.drawable.profile),
+                painter = painterResource(R.drawable.ic_profile),
                 contentDescription = "My Image",
                 modifier = Modifier
                     .align(Alignment.CenterHorizontally)
