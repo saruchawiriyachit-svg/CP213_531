@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Decidr</string>
+
+    <!-- Main Screen -->
+    <string name="jelly_greeting">Hi! What are we deciding today? 🐶</string>
+    <string name="jelly_need_options">I need at least 2 options to help you decide!</string>
+    <string name="jelly_ready">Looks good! Ready when you are.</string>
+    <string name="jelly_advanced">Ooh, advanced mode! Let\'s fine-tune those factors.</string>
+    <string name="your_question">Your Question</string>
+    <string name="question_hint">e.g. Where should we go for lunch?</string>
+    <string name="options">Options</string>
+    <string name="add_option">Add Option</string>
+    <string name="advanced_mode">Advanced Mode</string>
+    <string name="factors">Factors</string>
+    <string name="decide_now">Decide Now</string>
+
+    <!-- Result Screen -->
+    <string name="decision_result">Decision Result</string>
+    <string name="jelly_thinking">Jelly is thinking...</string>
+    <string name="go_back">Go back</string>
+    <string name="jelly_winner_announcement">Ta-da! Based on what\'s important to you, here\'s my top pick! 🐾</string>
+    <string name="winner">Winner!</string>
+    <string name="jelly_reasoning">Jelly\'s Reasoning</string>
+    <string name="confidence_score">Confidence Score</string>
+    <string name="score_analysis">Score Analysis</string>
+    <string name="option_breakdown">Option Breakdown</string>
+    <string name="pros">Pros:</string>
+    <string name="cons">Cons:</string>
+    <string name="was_this_helpful">Was this helpful?</string>
+    <string name="thanks_feedback">Thanks for the feedback! 🐾</string>
+    <string name="chat_with_jelly">Chat with Jelly</string>
+    <string name="ask_jelly_something">Ask Jelly something...</string>
+    <string name="jelly_is_typing">Jelly is typing...</string>
+    <string name="jelly_chat_greeting">Bark! Need to talk through your options? I\'m here to help you chew on it! 🐶</string>
+
+</resources>

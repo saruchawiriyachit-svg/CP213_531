@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Decidr</string>
+
+    <!-- Main Screen -->
+    <string name="jelly_greeting">สวัสดี! วันนี้เราจะตัดสินใจเรื่องอะไรดี? 🐶</string>
+    <string name="jelly_need_options">ฉันต้องการตัวเลือกอย่างน้อย 2 ข้อเพื่อช่วยคุณตัดสินใจ!</string>
+    <string name="jelly_ready">ดูดีมาก! พร้อมเมื่อคุณพร้อมเลย</string>
+    <string name="jelly_advanced">โอ้ โหมดขั้นสูง! มาปรับรายละเอียดกันเถอะ</string>
+    <string name="your_question">คำถามของคุณ</string>
+    <string name="question_hint">เช่น วันนี้เราจะไปกินมื้อเที่ยงที่ไหนดี?</string>
+    <string name="options">ตัวเลือก</string>
+    <string name="add_option">เพิ่มตัวเลือก</string>
+    <string name="advanced_mode">โหมดขั้นสูง</string>
+    <string name="factors">ปัจจัย</string>
+    <string name="decide_now">ตัดสินใจเลย</string>
+
+    <!-- Result Screen -->
+    <string name="decision_result">ผลการตัดสินใจ</string>
+    <string name="jelly_thinking">Jelly กำลังคิด...</string>
+    <string name="go_back">กลับ</string>
+    <string name="jelly_winner_announcement">แต่นแต๊น! จากสิ่งที่คุณให้ความสำคัญ นี่คือตัวเลือกที่ดีที่สุดของฉัน! 🐾</string>
+    <string name="winner">ผู้ชนะ!</string>
+    <string name="jelly_reasoning">เหตุผลของ Jelly</string>
+    <string name="confidence_score">คะแนนความมั่นใจ</string>
+    <string name="score_analysis">วิเคราะห์คะแนน</string>
+    <string name="option_breakdown">รายละเอียดตัวเลือก</string>
+    <string name="pros">ข้อดี:</string>
+    <string name="cons">ข้อเสีย:</string>
+    <string name="was_this_helpful">นี่มีประโยชน์ไหม?</string>
+    <string name="thanks_feedback">ขอบคุณสำหรับความคิดเห็น! 🐾</string>
+    <string name="chat_with_jelly">คุยกับ Jelly</string>
+    <string name="ask_jelly_something">ถามอะไร Jelly หน่อย...</string>
+    <string name="jelly_is_typing">Jelly กำลังพิมพ์...</string>
+    <string name="jelly_chat_greeting">โฮ่ง! ต้องการคุยเกี่ยวกับตัวเลือกของคุณไหม? ฉันอยู่ที่นี่เพื่อช่วยคุณคิดนะ! 🐶</string>
+
+</resources>
